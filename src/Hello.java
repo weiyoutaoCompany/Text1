@@ -6,4 +6,7 @@ public class Hello {
      public void delete(int id){
 
      }
+     public void update(int id){
+
+     }
 }
